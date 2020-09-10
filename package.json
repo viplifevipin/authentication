@@ -30,7 +30,7 @@
   "devDependencies": {
     "bcrypt": "^5.0.0",
     "express-validator": "^6.5.0",
-    "handlebars": "^4.5.0",
+    "handlebars": "^4.5.3",
     "mongodb": "^3.5.7",
     "passport-local-mongoose": "^6.0.1"
   },
